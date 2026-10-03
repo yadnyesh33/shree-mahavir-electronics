@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 600" role="img" aria-label="Double-door inverter refrigerator">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7d848f"/><stop offset=".18" stop-color="#d9dde3"/><stop offset=".5" stop-color="#b9bfc8"/><stop offset=".82" stop-color="#e3e6ea"/><stop offset="1" stop-color="#7a818c"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="handle" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4a505a"/><stop offset=".5" stop-color="#aab0b9"/><stop offset="1" stop-color="#4a505a"/></linearGradient>
+  </defs>
+  <ellipse cx="180" cy="588" rx="130" ry="9" fill="#000" opacity=".3"/>
+  <rect x="40" y="16" width="280" height="566" rx="16" fill="url(#body)"/>
+  <rect x="40" y="16" width="280" height="566" rx="16" fill="url(#sheen)"/>
+  <rect x="40" y="16" width="280" height="566" rx="16" fill="none" stroke="#000" stroke-opacity=".18"/>
+  <rect x="40" y="206" width="280" height="4" fill="#3b4048" opacity=".7"/>
+  <rect x="62" y="40" width="64" height="18" rx="4" fill="#0f1217"/>
+  <circle cx="76" cy="49" r="2.5" fill="#4d8dff"/><rect x="86" y="46" width="32" height="6" rx="3" fill="#4d8dff" opacity=".4"/>
+  <rect x="288" y="48" width="8" height="120" rx="4" fill="url(#handle)"/>
+  <rect x="288" y="232" width="8" height="190" rx="4" fill="url(#handle)"/>
+  <rect x="64" y="566" width="26" height="16" rx="4" fill="#2b2f36"/><rect x="270" y="566" width="26" height="16" rx="4" fill="#2b2f36"/>
+</svg>

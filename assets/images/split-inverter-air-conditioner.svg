@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="Split inverter air conditioner">
+  <defs>
+    <linearGradient id="abody" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#e3e6eb"/><stop offset="1" stop-color="#b4bac3"/></linearGradient>
+    <linearGradient id="aedge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".08" stop-color="#000" stop-opacity="0"/><stop offset=".92" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".18"/></linearGradient>
+    <linearGradient id="vent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2f37"/><stop offset="1" stop-color="#0d0f13"/></linearGradient>
+  </defs>
+  <ellipse cx="320" cy="238" rx="270" ry="10" fill="#000" opacity=".28"/>
+  <rect x="24" y="30" width="592" height="170" rx="26" fill="url(#abody)"/>
+  <rect x="24" y="30" width="592" height="170" rx="26" fill="url(#aedge)"/>
+  <rect x="24" y="30" width="592" height="170" rx="26" fill="none" stroke="#000" stroke-opacity=".12"/>
+  <path d="M44 84 H596" stroke="#000" stroke-opacity=".08" stroke-width="2"/>
+  <rect x="48" y="138" width="544" height="38" rx="14" fill="url(#vent)"/>
+  <rect x="62" y="150" width="516" height="5" rx="2.5" fill="#fff" opacity=".1"/>
+  <rect x="62" y="160" width="516" height="4" rx="2" fill="#fff" opacity=".06"/>
+  <rect x="470" y="96" width="92" height="22" rx="6" fill="#10141a"/>
+  <text x="516" y="112" font-family="monospace" font-size="14" fill="#8ab4ff" text-anchor="middle">24°C</text>
+  <circle cx="82" cy="107" r="3.5" fill="#4d8dff"/>
+</svg>

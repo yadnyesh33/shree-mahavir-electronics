@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-label="Convection microwave oven">
+  <defs>
+    <linearGradient id="mbody" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d323b"/><stop offset=".5" stop-color="#14171c"/><stop offset="1" stop-color="#242930"/></linearGradient>
+    <linearGradient id="mglass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2a45"/><stop offset=".6" stop-color="#080c14"/><stop offset="1" stop-color="#0d1524"/></linearGradient>
+    <linearGradient id="mpanel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20252d"/><stop offset="1" stop-color="#14171c"/></linearGradient>
+  </defs>
+  <ellipse cx="260" cy="362" rx="210" ry="10" fill="#000" opacity=".3"/>
+  <rect x="30" y="36" width="460" height="310" rx="22" fill="url(#mbody)"/>
+  <rect x="30" y="36" width="460" height="310" rx="22" fill="none" stroke="#fff" stroke-opacity=".14"/>
+  <rect x="54" y="62" width="276" height="258" rx="14" fill="#0b0d11"/>
+  <rect x="64" y="72" width="256" height="238" rx="9" fill="url(#mglass)"/>
+  <path d="M84 300 L 190 82 H 240 L 134 300 Z" fill="#fff" opacity=".05"/>
+  <rect x="352" y="62" width="114" height="258" rx="14" fill="url(#mpanel)"/>
+  <rect x="366" y="78" width="86" height="40" rx="6" fill="#06080b"/>
+  <text x="409" y="105" font-family="monospace" font-size="20" fill="#8ab4ff" text-anchor="middle">12:30</text>
+  <circle cx="409" cy="178" r="30" fill="#2a2f37"/><circle cx="409" cy="178" r="22" fill="#3a404a"/><rect x="407" y="158" width="4" height="14" rx="2" fill="#8ab4ff"/>
+  <rect x="368" y="228" width="40" height="22" rx="6" fill="#2a2f37"/><rect x="412" y="228" width="40" height="22" rx="6" fill="#2a2f37"/>
+  <rect x="368" y="260" width="40" height="22" rx="6" fill="#2a2f37"/><rect x="412" y="260" width="40" height="22" rx="6" fill="#4d8dff" opacity=".7"/>
+</svg>
